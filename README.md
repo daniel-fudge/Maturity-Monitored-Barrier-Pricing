@@ -1,5 +1,6 @@
 # Maturity-Monitored-Barrier-Pricing
-This repo prices the _"NBC Auto Callable Contingent Memory Income Note"_ described in this [link](https://nbcstructuredsolutions.ca/detailProduit.aspx?lequel=5317#documents).
+This repo prices the _"NBC Auto Callable Contingent Memory Income Note"_ described in this [link](https://nbcstructuredsolutions.ca/detailProduit.aspx?lequel=5317#documents).    
+The full report is captured [here](fine-6800-pricing.pdf).
 
 ## Motivation
 The motivation for this project was the valuation project of the _"FINE6800X:  Options, Futures and Other Derivative 
